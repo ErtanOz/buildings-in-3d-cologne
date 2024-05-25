@@ -1,0 +1,1 @@
+This code was created for the purpose of demonstrating how to open 3D buildings in a map using Mapbox. This allows for the creation of more detailed 3D GIS maps with real data. For example, you can use the code to create a 3D map of San Francisco with the real heights of the buildings.
